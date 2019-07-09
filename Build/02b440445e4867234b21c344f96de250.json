@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "thomas_tetris",
+"productVersion": "0.1",
+"dataUrl": "9150d91f48f3a4fb4c4e06ae2e44af4f.unityweb",
+"wasmCodeUrl": "f18f60d2ebea7b01918732fac67f160b.unityweb",
+"wasmFrameworkUrl": "aa8af693415b5e07aa6883935245731f.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
